@@ -49,7 +49,7 @@ NeoStylo-Re (이하 "본 앱")은 사용자의 개인정보를 중요시하며, 
 
 # Privacy Policy (English)
 
-**Last Updated: December 1, 2024**
+**Last Updated: December 1, 2025**
 
 NeoStylo-Re (hereinafter "the App") values your privacy and complies with relevant personal information protection laws.
 
